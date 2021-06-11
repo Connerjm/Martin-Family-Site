@@ -8,12 +8,21 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Features](#features)
 - [Deployment](#deployment)
 - [License](#license)
 
 ## Description
 
 Making a family website for managing lists and family wide information.
+
+## Features
+
+- Shared calendar; never miss a birthday.
+- Shared shopping list.
+- Polls. Vote for things such as dinner that night or movie for family night.
+- Post important life events for extended family and friends.
+- Contact and medical information in case of emergencies.
 
 ## Deployment
 
