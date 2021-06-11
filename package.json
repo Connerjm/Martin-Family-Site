@@ -1,0 +1,26 @@
+{
+  "name": "martin-family-site",
+  "version": "1.0.0",
+  "description": "A simple application for my family.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Connerjm/Martin-Family-Site.git"
+  },
+  "keywords": [
+    "mern"
+  ],
+  "author": "Conner Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Connerjm/Martin-Family-Site/issues"
+  },
+  "homepage": "https://github.com/Connerjm/Martin-Family-Site#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
