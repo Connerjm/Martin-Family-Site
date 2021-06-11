@@ -31,4 +31,4 @@ Making a family website for managing lists and family wide information.
 
 ## License
 
-My portfolio is released under the [MIT License](https://www.opensource.org/licenses/mit).
+Martin Family Website is released under the [MIT License](https://www.opensource.org/licenses/mit).
