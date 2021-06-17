@@ -23,6 +23,8 @@ Making a family website for managing lists and family wide information.
 - Polls. Vote for things such as dinner that night or movie for family night.
 - Post important life events for extended family and friends.
 - Contact and medical information in case of emergencies.
+- Set reminders for each other.
+- Save preferences like subway orders in a single location.
 
 ## Deployment
 
